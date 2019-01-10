@@ -8,4 +8,4 @@
 
 ~Stroke~
 
-*Bold*
+**Bold**
